@@ -29,6 +29,5 @@ I'm not super super familiar with Vimscript and don't really want to dig into
 it (sorry, but I don't). I relied on ChatGPT to help generate this code...
 That's a first for me and was pretty interesting. It wasn't always correct but
 was certainly good enough to get started and finish the rest myself. You can
-see the full transcript in the file `chatgpt3-transcript.pdf`.
+see the full transcript in the file `chatgpt-transcript.html`.
 
-<embed src="chatgpt3-transcript.pdf" type="application/pdf" width="100%" height="600px" />
