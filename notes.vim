@@ -15,7 +15,7 @@ function! CopyNotesAssetFile()
         let new_line = '<video src="' . new_filepath . '" controls></video>'
     elseif ext =~? '\%(mp3\|wav\|ogg\|flac\)'
         let new_line = '<audio src="' . new_filepath . '" controls></audio>'
-    elseif ext =~? '\%pdf'
+    elseif ext =~? '\%(pdf)'
         let new_line = '<embed src=' . new_filepath . ' type="application/pdf" width="100%" height="600px" />'
     endif
 
